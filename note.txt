@@ -1,0 +1,15 @@
+1: npm init -y
+2: npm i -D webpack webpack-cli
+3: In order to run "npm run build", we have to change something in the "script" in package.json file.
+4: npm run build
+5: Loaders & Sass Compiling: 
+    npm i -D sass style-loader css-loader sass-loader
+6: HTML webpack plugin:
+    npm i -D html-webpack-plugin
+7: webpack dev server:
+    npm run dev
+8: Babel loader: 
+    npm i -D babel-loader @babel/core @babel/preset-env
+
+9: webpack bundle analyzer:
+    npm i -D webpack-bundle-analyzer
